@@ -1,8 +1,9 @@
 # Gravity Clock
 
 Gravity Clock is an embedded project based on the **STC8 microcontroller**.  
-It uses gravity switches to detect the orientation of the clock and automatically controls countdown timers, alarms, and sleep/wake behavior.
+It uses gravity switches to detect the orientation of the clock and automatically controls countdown timers, alarms, and sleep/wake behavior.<p>
 
+[![Gravity Clock 视频](https://img.youtube.com/vi/9WTFgnAOmaE/0.jpg)](https://www.youtube.com/watch?v=9WTFgnAOmaE)
 ---
 
 ## Features
